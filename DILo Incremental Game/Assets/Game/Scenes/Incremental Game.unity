@@ -1172,15 +1172,15 @@ MonoBehaviour:
   _popUpText: {fileID: 1203874351}
   _popUpShowDuration: 3
   _achievementList:
-  - Title: Pegawai Magang
+  - Title: Unlock Intern
     Type: 0
     Value: Intern
     IsUnlocked: 0
-  - Title: Pegawai Tetap
+  - Title: Unlock Developer
     Type: 0
     Value: Developer
     IsUnlocked: 0
-  - Title: Manager
+  - Title: Unlock Manager
     Type: 0
     Value: Manager
     IsUnlocked: 0
@@ -1584,11 +1584,11 @@ MonoBehaviour:
     UnlockCost: 0
     UpgradeCost: 1
     Output: 2
-  - Name: Pegawai Magang
+  - Name: Intern
     UnlockCost: 100
     UpgradeCost: 100
     Output: 200
-  - Name: Pegawai Tetap
+  - Name: Developer
     UnlockCost: 10000
     UpgradeCost: 10000
     Output: 20000

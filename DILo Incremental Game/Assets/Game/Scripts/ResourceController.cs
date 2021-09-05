@@ -49,7 +49,8 @@ public class ResourceController : MonoBehaviour
     public void UnlockResource()
     {
         double unlockCost = GetUnlockCost();
-
+        Debug.Log(unlockCost);
+        Debug.Log(GameManager.Instance.TotalGold);
         if (GameManager.Instance.TotalGold < unlockCost)
         {
             return;

@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-D:/Unity Project Data/Dilo Course/DILo Incremental Game/Build/DILo Incremental Game.exe
+D:/Unity Project Data/DILo Course Incremental Game/DILo Incremental Game/Build/DILo Incremental Game.exe
 SceneListBegin?
 Assets/Game/Scenes/Incremental Game.unity
 SceneListEnd?
